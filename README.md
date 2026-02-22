@@ -7,7 +7,6 @@
 
 An AI that learns to play Mario Bros completely by itself using Deep Reinforcement Learning (PPO algorithm). Watch it go from a complete beginner to beating levels on its own!
 
-> 🎥 **Record your AI playing and add a GIF here — this is what gets you stars!**
 
 ---
 
